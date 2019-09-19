@@ -3,3 +3,5 @@ git commit -m "Example" -m "Example command git commit"
 git log --oneline
 git branch Example_Create_Brach
 git checkout <ArchiveName.txt>
+git clone <httpURL>
+git stash
