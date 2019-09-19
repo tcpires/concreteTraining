@@ -1,5 +1,3 @@
-revert
-
 git add .
 git commit -m "Example" -m "Example command git commit"
 git log --oneline
